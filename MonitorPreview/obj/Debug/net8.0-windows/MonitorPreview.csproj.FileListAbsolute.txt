@@ -1,0 +1,16 @@
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\bin\Debug\net8.0-windows\MonitorPreview.exe
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\bin\Debug\net8.0-windows\MonitorPreview.deps.json
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\bin\Debug\net8.0-windows\MonitorPreview.runtimeconfig.json
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\bin\Debug\net8.0-windows\MonitorPreview.dll
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\bin\Debug\net8.0-windows\MonitorPreview.pdb
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\obj\Debug\net8.0-windows\MonitorPreview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\obj\Debug\net8.0-windows\MonitorPreview.AssemblyInfoInputs.cache
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\obj\Debug\net8.0-windows\MonitorPreview.AssemblyInfo.cs
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\obj\Debug\net8.0-windows\MonitorPreview.csproj.CoreCompileInputs.cache
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\obj\Debug\net8.0-windows\MonitorPreview.dll
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\obj\Debug\net8.0-windows\refint\MonitorPreview.dll
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\obj\Debug\net8.0-windows\MonitorPreview.pdb
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\obj\Debug\net8.0-windows\MonitorPreview.genruntimeconfig.cache
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\obj\Debug\net8.0-windows\ref\MonitorPreview.dll
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\obj\Debug\net8.0-windows\MonitorPreviewForm.resources
+C:\Users\KristianGraul\source\repos\MonitorPreview\MonitorPreview\obj\Debug\net8.0-windows\MonitorPreview.csproj.GenerateResource.cache
